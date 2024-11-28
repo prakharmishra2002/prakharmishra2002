@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prakhar28mishra" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar28mishra?logo=twitter&style=for-the-badge" alt="prakhar28mishra" /></a> </p>
 
+[Linktree](https://www.petpooja.com/)
+
 - 🔭 I’m currently working with [Petpooja](https://www.petpooja.com/)
- 
-- 🔭[Linktree](https://www.petpooja.com/)
 
 - 🌱 I’m currently learning **.Net and BigQuery**
 
