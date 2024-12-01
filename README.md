@@ -9,7 +9,7 @@
 
 - [Linktree](https://linktr.ee/PrakharMishra2002)
   
-- [Posrtfolio](https://prakharmishra2002.github.io/Personal-Portfolio/)
+- [Portfolio](https://prakharmishra2002.github.io/Personal-Portfolio/)
 
 - 🔭 I’m currently working with [Petpooja](https://www.petpooja.com/)
 
