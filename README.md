@@ -43,3 +43,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharmishra2002&" alt="prakharmishra2002" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prakharmishra2002&theme=dark" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakharmishra2002&theme=dark)](https://git.io/streak-stats)
