@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharmishra2002&show_icons=true&locale=en" alt="prakharmishra2002" /></p>
 
-<a align="center" href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=prakharmishra2002" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=prakharmishra2002" alt="GitHub Streak" />
