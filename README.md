@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002" alt="prakharmishra2002" /></a> </p>
 
+<img align="right" alt="Coding" width="390" src=https://octodex.github.com/images/daftpunktocat-guy.gif>
+
 <p align="left"> <a href="https://twitter.com/prakhar28mishra" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar28mishra?logo=twitter&style=for-the-badge" alt="prakhar28mishra" /></a> </p>
 
 - [Linktree](https://linktr.ee/PrakharMishra2002)
