@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" >
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/header%20image.png" alt="Coding" height="300">
 </div>
 
