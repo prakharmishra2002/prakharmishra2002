@@ -7,11 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmishra2002&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmishra2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002" alt="prakharmishra2002" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002&theme=juicyfresh&no-bg=true" />
 
 <img align="right" alt="Coding" width="390" src=https://octodex.github.com/images/daftpunktocat-guy.gif>
 
 <p align="left"> <a href="https://twitter.com/prakhar28mishra" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar28mishra?logo=twitter&style=for-the-badge" alt="prakhar28mishra" /></a> </p>
+
+<img alt="followers" src="https://img.shields.io/github/followers/prakharmishra2002?label=Github+Followers&style=social">
+
+<img src="https://img.shields.io/github/stars/prakharmishra2002?label=Stars" alt="stars">
 
 - [Linktree](https://linktr.ee/PrakharMishra2002)
   
