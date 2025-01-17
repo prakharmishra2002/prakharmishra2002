@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
-<h3 align="center">A passionate WEB DEVELOPER and DATA SCIENTIST</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER and DATA SCIENTIST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmishra2002&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmishra2002" /> </p>
 
