@@ -2,10 +2,12 @@
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Header%20Image%202.png" alt="Coding" height="300">
 </div>
 
+<h2> Leet Code Badges </h2>
+
 <div align="center" >
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge.gif" alt="Dec Badge" height="70">
 </div>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER and DATA SCIENTIST</h3>
