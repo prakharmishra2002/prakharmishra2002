@@ -3,6 +3,7 @@
 </div>
 
 <p align="center" >
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Jan%20Badge.gif" alt="Dec Badge" height="70">
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge.gif" alt="Dec Badge" height="70">
 </p>
 
