@@ -44,3 +44,11 @@
 <a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=bhagyabhavi" alt="GitHub Streak" />
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="snake animation">
+</div>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&center=true&vCenter=true&width=660&lines=Thank+You+For+Visiting+My+Github+Profile+%F0%9F%A4%8D" alt="Typing SVG" /></a>
+</h1>
