@@ -68,3 +68,11 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+<h1><br></h1>
+
+## Contributions
+
+<div align="center">
+    <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/github-user-contribution.svg" alt="snake animation">
+</div>
+
