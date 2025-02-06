@@ -1,15 +1,23 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&center=true&vCenter=true&width=660&lines=Thank+You+For+Visiting+My+Github+Profile+%F0%9F%A4%8D" alt="Typing SVG" /></a>
+</h1>
+
 <div align="center" >
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Header%20Image%202.png" alt="Coding" height="300">
 </div>
-<br>
-<p align="center" >
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge%202024.gif" alt="Dec Badge" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Jan%20Badge%202025.gif" alt="Jan Badge" height="70">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER and DATA SCIENTIST</h3>
 
+## Leet Code Badges
+<p align="center" >
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge%202024.gif" alt="Dec Badge" height="70">
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Jan%20Badge%202025.gif" alt="Jan Badge" height="70">
+
+</p>
+
+## Overview
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmishra2002&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmishra2002" /> </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002&theme=juicyfresh&no-bg=true" />
@@ -59,3 +67,4 @@
 <a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=prakharmishra2002" alt="GitHub Streak" />
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
