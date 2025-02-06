@@ -3,27 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyabhavi&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyabhavi" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=bhagyabhavi&theme=juicyfresh&no-bg=true" />
 
 <img align="right" alt="Coding" width="390" src=https://octodex.github.com/images/daftpunktocat-guy.gif>
 
-<p align="left"> <a href="https://twitter.com/prakhar28mishra" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar28mishra?logo=twitter&style=for-the-badge" alt="prakhar28mishra" /></a> </p>
+<img alt="followers" src="https://img.shields.io/github/followers/bhagyabhavi?label=Github+Followers&style=social">
 
-<img alt="followers" src="https://img.shields.io/github/followers/prakharmishra2002?label=Github+Followers&style=social">
+<img src="https://img.shields.io/github/stars/bhagyabhavi?label=Stars" alt="stars">
 
-<img src="https://img.shields.io/github/stars/prakharmishra2002?label=Stars" alt="stars">
-
-- [Linktree](https://linktr.ee/PrakharMishra2002)
-  
-- [Portfolio](https://prakharmishra2002.github.io/Personal-Portfolio/)
-
-- 🔭 I’m currently working with [Petpooja](https://www.petpooja.com/)
+- [Portfolio](https://bhagyabhavi.github.io/Personal-Portfolio/)
 
 - 🌱 I’m currently learning **.Net and BigQuery**
 
 - 💬 Ask me about **Python and JavaScript**
 
-- 📫 How to reach me **prakharmishra040@gmail.com**
+- 📫 How to reach me **bhagyabhavisrivastava@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NZ-vonM9SIM6757vMjGFUZTq_E-yzr1S/view?usp=drive_link](https://drive.google.com/file/d/1NZ-vonM9SIM6757vMjGFUZTq_E-yzr1S/view?usp=drive_link)
 
