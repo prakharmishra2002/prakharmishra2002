@@ -1,7 +1,4 @@
-<div align="center" >
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Header%20Image%202.png" alt="Coding" height="300">
-</div>
-<br>
+
 <p align="center" >
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge%202024.gif" alt="Dec Badge" height="70">
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Jan%20Badge%202025.gif" alt="Jan Badge" height="70">
