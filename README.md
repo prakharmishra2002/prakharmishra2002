@@ -1,13 +1,7 @@
+<h1 align="center">Hi 👋, I'm Bhagyabhavi</h1>
+<h3 align="center">A passionate JAVA DEVELOPER</h3>
 
-<p align="center" >
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge%202024.gif" alt="Dec Badge" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Jan%20Badge%202025.gif" alt="Jan Badge" height="70">
-</p>
-
-<h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER and DATA SCIENTIST</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmishra2002&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmishra2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyabhavi&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyabhavi" /> </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002&theme=juicyfresh&no-bg=true" />
 
