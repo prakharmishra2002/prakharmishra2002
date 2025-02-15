@@ -22,6 +22,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=prakharmishra2002&theme=juicyfresh&no-bg=true" />
 
+<img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+
 <img align="right" alt="Coding" width="390" src=https://octodex.github.com/images/daftpunktocat-guy.gif>
 
 <p align="left"> <a href="https://twitter.com/prakhar28mishra" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar28mishra?logo=twitter&style=for-the-badge" alt="prakhar28mishra" /></a> </p>
