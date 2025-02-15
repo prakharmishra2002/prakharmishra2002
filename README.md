@@ -78,4 +78,4 @@
 <div align="center">
     <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/github-user-contribution.svg" alt="snake animation">
 </div>
-
+<img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
