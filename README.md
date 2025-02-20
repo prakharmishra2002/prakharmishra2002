@@ -13,8 +13,9 @@
 
 ## Leet Code Badges
 <p align="center" >
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Dec%20Badge%202024.gif" alt="Dec Badge" height="70">
-  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Jan%20Badge%202025.gif" alt="Jan Badge" height="70">
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Dec%20Badge%202024.gif" alt="Dec Badge 2024" height="70">
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Jan%20Badge%202025.gif" alt="Jan Badge 2025" height="70">
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/50%20Days%20Badge%202025.gif" alt="50 Days Badge 2025" height="70">
 </p>
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 
