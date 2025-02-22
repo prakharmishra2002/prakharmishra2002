@@ -27,7 +27,7 @@
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 
 <!--<img align="right" alt="Coding" width="390" src=https://octodex.github.com/images/daftpunktocat-guy.gif>-->
-<img align="right" alt="Coding" width="550" src=https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Animated%20Image.gif>
+<img align="right" alt="Coding" width="500" src=https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Animated%20Image.gif>
 
 <p align="left"> <a href="https://twitter.com/prakhar28mishra" target="blank"><img src="https://img.shields.io/twitter/follow/prakhar28mishra?logo=twitter&style=for-the-badge" alt="prakhar28mishra" /></a> </p>
 
