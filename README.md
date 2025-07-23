@@ -54,7 +54,7 @@
 
 - 📫 How to reach me **prakharmishra040@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NZ-vonM9SIM6757vMjGFUZTq_E-yzr1S/view?usp=drive_link](https://drive.google.com/file/d/1NZ-vonM9SIM6757vMjGFUZTq_E-yzr1S/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16WrNjfOkWHOJfrVyHAEIJIIoh9czcuhh/view?usp=sharing)
   
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 
