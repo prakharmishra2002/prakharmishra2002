@@ -9,7 +9,7 @@
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 
 <h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER and DATA SCIENTIST</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER and DATA ANALYST</h3>
 
 ## Leet Code Badges
 <p align="center" >
