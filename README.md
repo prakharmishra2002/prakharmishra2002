@@ -3,6 +3,7 @@
 </p>
 
 
+
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 <div align="center" >
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/Header%20Image%202.png" alt="Coding" height="300">
