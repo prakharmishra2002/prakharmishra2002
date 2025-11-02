@@ -28,6 +28,7 @@
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Aug%20Badge%202025.gif" alt="Aug Badge 2025" height="70">
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Sep%20Badge%202025.gif" alt="Sep Badge 2025" height="70">
   <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/Oct%20Badge%202025.gif" alt="Oct Badge 2025" height="70">
+  <img src="https://github.com/prakharmishra2002/prakharmishra2002/blob/main/LeetCode%20Badges/300+%20Days%20Badge%202025.gif" alt="300+ Days Badge 2025" height="70">
 </p>
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 
