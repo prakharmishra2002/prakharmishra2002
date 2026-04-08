@@ -60,7 +60,7 @@
 
 - 📫 How to reach me **prakharmishra040@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iXySzzIH0vg57VBuPYUhXsu78vSZToWG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](prakharmishra-cv.netlify.app)
   
 <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 
